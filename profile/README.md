@@ -1,22 +1,22 @@
-# OpenMandrivaLx
-
-## Join the chat:
-* Generic/users discussions: [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Matrix)](https://app.element.io/#/room/#openmandriva-cooker:matrix.org) or [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Telegram)](https://t.me/openmandriva)
-* Development/Cooker discussions: [![OpenMandriva Cooker](https://img.shields.io/matrix/openmandriva-cooker:matrix.org.svg?label=Matrix)](https://app.element.io/#/room/#openmandriva-cooker:matrix.org) or [![OpenmandrivaCooker](https://img.shields.io/matrix/openmandriva-cooker:matrix.org?label=Telegram)](https://t.me/openmandrivaCooker)
-
-You can also join these discussions using IRC ([libera.chat](https://web.libera.chat/)) through #openmandriva and #openmandriva-cooker channels.
-
-## The OpenMandriva Association
-
+# The OpenMandriva Association
 The OpenMandriva Association's goal is to develop a pragmatic distribution that provides the best user experience for everyone, from newbies to developers. We will achieve our objectives for the best balance between the most modern features and stability.
 
-Our roots are in Mandrake and its traditions, we are a worldwide community of people who are passionate about free software working together and take our technical and strategic decisions in a collaborative manner. We do not just build a Linux distro, we exchange knowledge and make new friends. Welcome to OpenMandriva Community! Click [here](https://www.openmandriva.org/en/documentation/association/About) to know who are us and what we are doing.
+Our roots are in Mandrake and its traditions, we are a worldwide community of people who are passionate about free software working together and take our technical and strategic decisions in a collaborative manner. We do not just build a Linux distro, we exchange knowledge and make new friends.
+Welcome to OpenMandriva Community! Click [here](https://www.openmandriva.org/en/documentation/association/About) to know who are us and what we are doing.
+
+
+# The OpenMandriva Lx distribution
 
 ## Download
 [Download our current release ISO](https://www.openmandriva.org/download)
 
 ## Discover
 [See screenshots of OpenMandriva Lx in action](https://gallery.openmandriva.org/index.php?/category/releases)
+
+## Join the chat
+* Generic/users discussions: [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Matrix)](https://app.element.io/#/room/#openmandriva:matrix.org) or [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Telegram)](https://t.me/openmandriva)
+* Development/Cooker discussions: [![OpenMandriva Cooker](https://img.shields.io/matrix/openmandriva-cooker:matrix.org.svg?label=Matrix)](https://app.element.io/#/room/#openmandriva-cooker:matrix.org) or [![OpenmandrivaCooker](https://img.shields.io/matrix/openmandriva-cooker:matrix.org?label=Telegram)](https://t.me/openmandrivaCooker)
+* You can also join using IRC ([libera.chat](https://web.libera.chat/)) through #openmandriva and #openmandriva-cooker channels.
 
 ## Forum
 [![Discourse topics](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fforum.openmandriva.org)](https://forum.openmandriva.org) Meet other users from all over the world! 
