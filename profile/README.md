@@ -26,7 +26,7 @@ Participate in building OpenMandriva and making it even better
 
 [Our software sources](https://github.com/OpenMandrivaSoftware)
 
-[Our RPM repistories sources](https://github.com/OpenMandrivaAssociation)
+[Our RPM repositories sources](https://github.com/OpenMandrivaAssociation)
 
 [Our build farm](https://abf.openmandriva.org)
 
