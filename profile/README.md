@@ -8,7 +8,7 @@ Welcome to OpenMandriva Community! Click [here](https://www.openmandriva.org/en/
 # The OpenMandriva Lx distribution
 
 ## Download
-[Download our current release ISO](https://www.openmandriva.org/download)
+[Download our current release ISO](https://www.openmandriva.org/release-picking)
 
 ## Discover
 [See screenshots of OpenMandriva Lx in action](https://gallery.openmandriva.org/index.php?/category/releases)
