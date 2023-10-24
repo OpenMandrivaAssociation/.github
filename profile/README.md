@@ -16,7 +16,6 @@ Welcome to OpenMandriva Community! Click [here](https://www.openmandriva.org/en/
 ## Join the chat
 * Generic/users discussions: [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Matrix)](https://app.element.io/#/room/#openmandriva:matrix.org) or [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Telegram)](https://t.me/openmandriva)
 * Development/Cooker discussions: [![OpenMandriva Cooker](https://img.shields.io/matrix/openmandriva-cooker:matrix.org.svg?label=Matrix)](https://app.element.io/#/room/#openmandriva-cooker:matrix.org) or [![OpenmandrivaCooker](https://img.shields.io/matrix/openmandriva-cooker:matrix.org?label=Telegram)](https://t.me/openmandrivaCooker)
-* You can also join using IRC ([libera.chat](https://web.libera.chat/)) through #openmandriva and #openmandriva-cooker channels.
 
 ## Forum
 [![Discourse topics](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fforum.openmandriva.org)](https://forum.openmandriva.org) Meet other users from all over the world! 
