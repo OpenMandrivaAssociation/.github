@@ -14,8 +14,9 @@ Welcome to OpenMandriva Community! Click [here](https://www.openmandriva.org/en/
 [See screenshots of OpenMandriva Lx in action](https://gallery.openmandriva.org/index.php?/category/releases)
 
 ## Join the chat
-* Generic/users discussions: [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Matrix)](https://app.element.io/#/room/#openmandriva:matrix.org) or [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Telegram)](https://t.me/openmandriva)
+* OpenMandriva newcomers welcome room: [![OpenMandriva Hello](https://img.shields.io/matrix/openmandriva-hello:matrix.org.svg?label=Matrix)](https://app.element.io/#/room/#openmandriva-hello:matrix.org)
 * Development/Cooker discussions: [![OpenMandriva Cooker](https://img.shields.io/matrix/openmandriva-cooker:matrix.org.svg?label=Matrix)](https://app.element.io/#/room/#openmandriva-cooker:matrix.org) or [![OpenmandrivaCooker](https://img.shields.io/matrix/openmandriva-cooker:matrix.org?label=Telegram)](https://t.me/openmandrivaCooker)
+* Generic discussions: [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Matrix)](https://app.element.io/#/room/#openmandriva:matrix.org) or [![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?label=Telegram)](https://t.me/openmandriva)
 
 ## Forum
 [![Discourse topics](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fforum.openmandriva.org)](https://forum.openmandriva.org) Meet other users from all over the world! 
